@@ -25,7 +25,7 @@ cat tmux-gruvbox-dark.conf >> ~/.tmux.conf
 Add plugin to the list of TPM plugins in `.tmux.conf` and select desired theme
 
 ```bash
-set -g @plugin 'egel/tmux-gruvbox'
+set -g @plugin 'guy-av/tmux-gruvbox'
 set -g @tmux-gruvbox 'dark' # or 'light'
 ```
 
